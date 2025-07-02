@@ -1,4 +1,4 @@
-# fn-finale
+# fn-finale (LAST UPDATED BACK IN 2022/2023)
 # Fortnite Automation Toolkit (Java + OpenCV + JNA)
 
 This project is a **Fortnite automation toolkit** built in **Java**, utilizing **OpenCV**, **JNativeHook**, and **JNA** for **low-level Windows API interaction, memory manipulation, pixel detection, and input automation**.
